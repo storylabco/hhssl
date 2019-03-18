@@ -27,6 +27,14 @@ body {
     border: 0.5px solid;
 }
 
+.gifspace {
+    font-family: Karla, sans-serif;
+    grid-column: span 1;
+    padding: 5px;
+    padding-top: 60px;
+    border: 0.5px solid;
+}
+
 .namespace {
     font-family: Karla,sans-serif;
     grid-column: span 1;
