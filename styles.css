@@ -38,7 +38,10 @@ body {
 }
 
 .gifspace1:hover {
+    width: 404px;
+    height: 404px;
     background-image: url("Amyf600bg.gif");
+    background-size: contain;
 }
 
 .gifspace12 {
