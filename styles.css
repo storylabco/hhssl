@@ -31,7 +31,7 @@ body {
     width: 404px;
     height: 404px;
     background-image: url("Amyf600.gif");
-    background-size: 404px 404px;
+    background-size: contain;
 }
 
 .gifspace2 {
