@@ -27,6 +27,16 @@ body {
     border: 0.5px solid;
 }
 
+.gifspace1 {
+    width: 404px;
+    height: 404px;
+    background-image: url("Amyf600.gif");
+    font-family: Karla, sans-serif;
+    grid-column: span 1;
+    padding: 5px;
+    padding-top: 150px;
+    border: 0.5px solid;
+
 .gifspace2 {
     font-family: Karla, sans-serif;
     grid-column: span 1;
