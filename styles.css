@@ -117,6 +117,60 @@ body {
     
 }
 
+.gifspace6 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Layla600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace6:hover {
+    width: 404px;
+    height: 404px;
+    background-image: url("Layla600SQ.gif");
+    background-size: contain;
+    
+}
+
+.gifspace7 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Lizzief2600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace7:hover {
+    width: 404px;
+    height: 404px;
+    background-image: url("Lizzief2600sq.gif");
+    background-size: contain;
+    
+}
+
+.gifspace8 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Orla2600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace8:hover {
+    width: 404px;
+    height: 404px;
+    background-image: url("Orla2600bgw.gif");
+    background-size: contain;
+    
+}
+
 
 
 .gifspace2 {
