@@ -55,8 +55,68 @@ body {
 }
 
 .gifspace12:hover {
+    width: 404px;
+    height: 404px;
     background-image: url("Annikafsq.gif");
+    background-size: contain;
+    
 }
+
+.gifspace3 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Evie2f600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace3:hover {
+    width: 404px;
+    height: 404px;
+    background-image: url("Evie2f600sq.gif");
+    background-size: contain;
+    
+}
+
+
+.gifspace4 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Honorf600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace4:hover {
+    width: 404px;
+    height: 404px;
+    background-image: url("Honorf600sqw.gif");
+    background-size: contain;
+    
+}
+
+.gifspace5 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Imi600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace5:hover {
+    width: 404px;
+    height: 404px;
+    background-image: url("Imi600sq.gif");
+    background-size: contain;
+    
+}
+
 
 
 .gifspace2 {
