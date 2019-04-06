@@ -30,9 +30,6 @@ body {
 .gifspace1 {
     width: 404px;
     height: 404px;
-    background-image: url("Amyf600.gif");
-    font-family: Karla, sans-serif;
-    grid-column: span 1;
 
 .gifspace2 {
     font-family: Karla, sans-serif;
