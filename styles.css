@@ -38,8 +38,23 @@ body {
 }
 
 .gifspace1:hover {
-    background-color: blue;
+    background-image: url("Amyf600bg.gif");
 }
+
+.gifspace12 {
+    width: 404px;
+    height: 404px;
+    grid-column: span 1;
+    background-image: url("Annikaf600.gif");
+    border: 0.5px solid;
+    padding: 5px;
+    background-size: contain;
+}
+
+.gifspace12:hover {
+    background-image: url("Annikafsq.gif");
+}
+
 
 .gifspace2 {
     font-family: Karla, sans-serif;
